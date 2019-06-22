@@ -3,6 +3,16 @@
 [Oo]bj/
 [Bb]uild/
 [Bb]uilds/
+[Aa]ssets/Asteroids Pack/
+[Aa]ssets/Editor/
+[Aa]ssets/Engine/
+[Aa]ssets/Models/
+[Aa]ssets/Oculus/
+[Aa]ssets/Plugins/
+[Aa]ssets/Skyboxes/
+[Aa]ssets/Sounds/
+[Aa]ssets/Stagit/
+
 Assets/AssetStoreTools*
 
 # Visual Studio cache directory
